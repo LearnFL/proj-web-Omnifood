@@ -6,10 +6,10 @@ Practicing responsive design
 ## Process
 CSS, HTML
 
-## NETLIFY DEPLOYMENT
+## Netlify deployment
 Netlify.com (no database, no server side code, only static) or use surge.sh.
 
-## VISIT LIVE PAGE
+## Visit live page
 [See live page](https://euphonious-trifle-d0f79f.netlify.app)
 
 ## Screenshots
